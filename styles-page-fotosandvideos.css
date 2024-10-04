@@ -1,0 +1,99 @@
+.carrusel-imgs{
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    width: 60%;
+    .titulos{
+        text-align: center;
+    }
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+header{
+    background-color: rgba(0, 0, 0, 0.849);
+    backdrop-filter: blur(10px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2vh;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    .logo img{
+        min-width: 100%;
+        width: calc(50px + 2vw);
+    }
+    .conteiner-title-nav{
+        display: flex;
+        flex-direction: column;
+        & h2{
+            font-family: 'Inconsolata', monospace;
+        }
+        & nav ul {
+            margin-top: -10px;
+            & li a{
+                font-family: 'Inconsolata', monospace;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 810px){
+    header{
+        background-color: rgba(0, 0, 0, 0.849);
+        backdrop-filter: blur(10px);
+        display: flex;
+        flex-direction: column;
+        gap: 2vh;
+        padding-bottom: 1vh;
+        .logo img{
+            min-width: 100%;
+            width: calc(70px + 2vw);
+        }
+        .divisor{
+            display: none;
+        }
+        .conteiner-title-nav{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 0.6vw;
+            & h2{
+                font-size: calc(10px + 2vw);
+                color: white;
+                font-weight: 100;
+            }
+            & nav ul {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap:4vw;
+                & li a{
+                    color: white;
+                    font-weight: 600;
+                    text-transform: uppercase;
+                }
+            }
+        }
+    }
+    .carrusel-imgs{
+        width: 90%;
+    }
+}
+
+.n{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
