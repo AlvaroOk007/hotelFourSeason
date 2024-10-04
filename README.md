@@ -1,11 +1,27 @@
-👋¡Hola, Soy Álvaro Bravo!👋
+# ¡Hola! Soy Álvaro Bravo 👋
 
-Soy Desarrolador Web Trainee, estoy cursando mi segundo año de la Tecnicatura en programacion en la Universidad de Hurlingham, me gusta desarrollar paginas webs desde cero con las mejores practicas y faciles de utilizar.
+Soy **Desarrollador Web Trainee** y actualmente estoy cursando mi segundo año de la **Tecnicatura en Programación** en la **Universidad de Hurlingham**. Me gusta crear páginas web desde cero, aplicando las mejores prácticas para asegurar que sean **fáciles de usar** y **accesibles** para todos los usuarios.
 
-✅Las tecnologias que manejo son:
+---
 
-🔹 HTML 🔹 CSS 🔹 JAVASCRIPT 🔹 PYTHON 🔹 BOOTSTRAP
+## Descripción del proyecto
 
-📌 Puedes encontrarme en:
+Este repositorio contiene la maquetación completa de una página web para el **Hotel Four Seasons**, realizada con **HTML**, **CSS** y **JavaScript**. El diseño incluye una estructura moderna, navegación intuitiva y una presentación visual atractiva que resalta los servicios y características del hotel. 
 
-🔹 Linkedin : https://www.linkedin.com/in/inalvarobravo 🔹 Instagram : https://www.instagram.com/alvaro_f_bravo 🔹 GitHub : https://github.com/AlvaroOk007
+El objetivo de este proyecto es demostrar habilidades en **maquetación** y desarrollo frontend, aplicando técnicas de diseño responsivo y una experiencia de usuario optimizada.
+
+---
+
+## Tecnologías utilizadas
+
+- **HTML**: Para estructurar el contenido y los elementos de la página.
+- **CSS**: Para el diseño visual y la presentación, incluyendo estilos personalizados para la interfaz del hotel.
+- **JavaScript**: Para agregar interactividad y mejorar la experiencia de usuario en la página.
+  
+---
+
+## Conéctate conmigo
+
+- 🔹 [LinkedIn](https://www.linkedin.com/in/inalvarobravo)
+- 🔹 [Instagram](https://www.instagram.com/alvaro_f_bravo)
+- 🔹 [GitHub](https://github.com/AlvaroOk007)
