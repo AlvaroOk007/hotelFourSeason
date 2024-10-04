@@ -6,18 +6,20 @@ Soy **Desarrollador Web Trainee** y actualmente estoy cursando mi segundo año d
 
 ## Descripción del proyecto
 
-Este repositorio contiene la maquetación completa de una página web para el **Hotel Four Seasons**, realizada con **HTML**, **CSS** y **JavaScript**. El diseño incluye una estructura moderna, navegación intuitiva y una presentación visual atractiva que resalta los servicios y características del hotel. 
+Este repositorio contiene la maquetación completa de una página web para el **Hotel Four Seasons**, realizada con **HTML**, **CSS** y **JavaScript**. El diseño incluye una estructura moderna, navegación intuitiva y una presentación visual atractiva que resalta los servicios y características del hotel.
 
-El objetivo de este proyecto es demostrar habilidades en **maquetación** y desarrollo frontend, aplicando técnicas de diseño responsivo y una experiencia de usuario optimizada.
+Además, he implementado un **modo oscuro**, lo que permite al usuario cambiar entre un tema claro y oscuro para mejorar la experiencia de navegación en distintas condiciones de luz.
+
+El objetivo de este proyecto es demostrar habilidades en **maquetación**, desarrollo frontend, y **gestión de temas dinámicos**, aplicando técnicas de diseño responsivo y optimización de la experiencia de usuario.
 
 ---
 
 ## Tecnologías utilizadas
 
 - **HTML**: Para estructurar el contenido y los elementos de la página.
-- **CSS**: Para el diseño visual y la presentación, incluyendo estilos personalizados para la interfaz del hotel.
-- **JavaScript**: Para agregar interactividad y mejorar la experiencia de usuario en la página.
-  
+- **CSS**: Para el diseño visual y la presentación, incluyendo estilos personalizados tanto para el tema claro como para el modo oscuro.
+- **JavaScript**: Para agregar interactividad, incluyendo la funcionalidad de cambio de tema entre modo claro y oscuro.
+
 ---
 
 ## Conéctate conmigo
